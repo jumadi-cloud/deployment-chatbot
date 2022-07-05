@@ -1,6 +1,6 @@
 # Deployment With Heroku
 
-# Link heroku https://kelasawanpintar.herokuapp.com/
+# Link heroku https://deployment-chatbot.herokuapp.com/
 
 # Chatbot-v1
 
