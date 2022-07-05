@@ -6,7 +6,7 @@
 
 The source code of Chatbot using Python and its library.
 
-![alt_text](https://github.com/algonacci/Chatbot-v1/blob/main/thumbnail.jpg?raw=true)
+![alt_text](https://github.com/algonacci/Chatbot-v1/blob/main/tec.png?raw=true)
 
 # How to install and use it?
 
