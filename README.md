@@ -1,16 +1,24 @@
+# Deployment With Heroku
+
+# Link heroku https://kelasawanpintar.herokuapp.com/
+
 # Chatbot-v1
+
 The source code of Chatbot using Python and its library.
 
 ![alt_text](https://github.com/algonacci/Chatbot-v1/blob/main/thumbnail.jpg?raw=true)
 
 # How to install and use it?
+
 - Clone this repo to your local computer
 - Create a Python virtual environment by typing this in the terminal:
+
 ```
 python -m venv .venv
 ```
 
 ## Install and import library
+
 - pip install tensorflow
 - pip install keras
 - pip install keras-models
@@ -19,7 +27,9 @@ python -m venv .venv
 - pip install flask
 
 # Train the model and run it on a Flask web server
-## 
+
+##
+
 - Prepare a bunch of Bot's Response data in JSON format
 - Train the model with Bot's Response data in JSON by run the `training.py` file
 - Edit some CSS styles and components in static folder
